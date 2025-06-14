@@ -1,4 +1,4 @@
-#  💅🏾 Theme Switcher
+# Theme Switcher
 
 ## :closed_book: Sobre 
  ### Este é um repositório de estudos
